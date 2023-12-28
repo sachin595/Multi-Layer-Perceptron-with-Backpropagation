@@ -1,1 +1,2 @@
 # Multi-Layer-Perceptron-with-Backpropagation
+The objective of this project is to implement a Multi-Layer Perceptron (MLP) using the backpropagation (BP) algorithm for training. The neural network will be designed to classify handwritten digits from the MNIST dataset. The dataset comprises grayscale images of handwritten digits, each represented as a column vector with values ranging from 0 to 1. The primary aim is to harness the potential of neural networks for the classification of handwritten digits sourced from the MNIST dataset.
